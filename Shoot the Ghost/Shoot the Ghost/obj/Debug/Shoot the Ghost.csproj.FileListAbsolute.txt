@@ -1,0 +1,9 @@
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\bin\Debug\Shoot the Ghost.exe.config
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\bin\Debug\Shoot the Ghost.exe
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\bin\Debug\Shoot the Ghost.pdb
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\obj\Debug\Shoot the Ghost.csprojResolveAssemblyReference.cache
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\obj\Debug\Shoot_the_Ghost.Form1.resources
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\obj\Debug\Shoot_the_Ghost.Properties.Resources.resources
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\obj\Debug\Shoot the Ghost.csproj.GenerateResource.Cache
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\obj\Debug\Shoot the Ghost.exe
+c:\users\era\documents\visual studio 2015\Projects\Shoot the Ghost\Shoot the Ghost\obj\Debug\Shoot the Ghost.pdb
